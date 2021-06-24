@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://mywebserver.com/显示的图标.png</string>      		
+                    <string>https://github.com/BearQu/something/raw/main/1024.png</string>      		
                 </dict>
             </array>
             <key>metadata</key>
